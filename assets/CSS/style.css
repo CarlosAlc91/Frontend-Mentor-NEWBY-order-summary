@@ -133,11 +133,6 @@ h6 {
   font-weight: var(--black-font);
 }
 
-.footer {
-  position: absolute;
-  bottom: 0;
-}
-
 @media (min-width: 640px) {
 
   body {
