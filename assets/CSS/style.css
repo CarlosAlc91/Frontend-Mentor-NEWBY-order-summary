@@ -26,7 +26,7 @@ body {
   height: 100vh;
   font-family: var(--page--font);
   background-color: var(--bg-color);
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 h1,
